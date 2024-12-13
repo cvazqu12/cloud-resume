@@ -61,4 +61,6 @@ For the first half, I did choose to set it up manually for the first time, and i
 
 I enjoyed the portion of using unit tests the most because this introduced to me a whole new way of implementing new code quickly, and reduces my need for a graphical interface. 
 
+<a href="https://github.com/cvazqu12/cloud-resume-back">Backend Repository</a>
 
+<a href="https://github.com/cvazqu12/cloud-resume-infra">Infrastructure Repository</a>
