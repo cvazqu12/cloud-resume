@@ -18,17 +18,17 @@ Chapter II, The How:
 
 What services did I choose to use? Quite a lot actually. Here is the list:
 
-* **FrontEnd**
+**<font color="lightblue">Frontend</font>**
 * S3
 * Cloudfront
 * Route 53
 
-* **Backend**
+**<font color="lightblue">Backend</font>**
 * API Gateway
 * Lambda
 * Dynamo DB
 
-* **CI/CD**
+**<font color="lightblue">CI/CD</font>**
 * Github Actions
 * Github Secrets
 * Terraform
